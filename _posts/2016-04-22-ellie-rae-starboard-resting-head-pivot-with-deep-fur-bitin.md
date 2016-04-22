@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ellie Rae - Starboard resting head pivot with deep fur biting
-datePublished: '2016-04-22T05:12:37.295Z'
-dateModified: '2016-04-22T05:11:26.360Z'
+datePublished: '2016-04-22T05:15:55.151Z'
+dateModified: '2016-04-22T05:12:45.441Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-22-ellie-rae-starboard-resting-head-pivot-with-deep-fur-bitin.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-22-ellie-rae-starboard-resting-head-pivot-with-deep-fur-bitin.md
-published: true
 url: ellie-rae-starboard-resting-head-pivot-with-deep-fur-bitin/index.html
 _type: Article
 
