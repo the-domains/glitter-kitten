@@ -1,0 +1,28 @@
+name: Glitter Kitten
+favicon: null
+layout_spectrum: 0.6529859078582376
+typography_spectrum: 0.48519483394920826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.042038796935230494
+  lightness: 0.07798414002172649
+  saturation: 0.8541629232931882
+  rhythmicContrast: 0.4630430124234408
+purpose: []
