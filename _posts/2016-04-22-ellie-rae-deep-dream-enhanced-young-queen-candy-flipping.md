@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ellie Rae - Deep Dream enhanced young queen. Wisdom is usually earned through experience and hardship, Ellie Rae traverses compound timelines across dimensions as a many-faceted reincarnated reflection of the collected life-bringers. '
-datePublished: '2016-04-22T06:07:21.787Z'
-dateModified: '2016-04-22T06:06:44.787Z'
+datePublished: '2016-04-23T04:42:18.699Z'
+dateModified: '2016-04-22T06:08:02.004Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-ellie-rae-deep-dream-enhanced-young-queen-candy-flipping.md
