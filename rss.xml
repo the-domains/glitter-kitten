@@ -4,8 +4,15 @@
         <description><![CDATA[Natural Observations of Ellie Rae]]></description>
         <link>https://thegrid.ai/glitter-kitten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 06:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 20:58:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitter-kitten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63e519ba-97a2-4997-a8a0-38c8e2ac1d57.jpg">]]></description>
+            <link>https://thegrid.ai/glitter-kitten/ellie-rae-classic-side-pose-so-inquisitive/index.html</link>
+            <guid isPermaLink="false">1a59e3ea-7690-46be-9239-0e0a6d0e90af</guid>
+            <pubDate>Sat, 23 Apr 2016 20:58:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e148b5c1-45a1-4f3a-b508-f0e3b6e00eb6.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/glitter-kitten/ellie-rae-1/index.html</link>
             <guid isPermaLink="false">583cdc2f-76ad-4600-ac6f-d20ae12aae9e</guid>
             <pubDate>Sat, 23 Apr 2016 05:27:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ellie Rae #2]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf2c38d7-dd72-410b-a3ba-7859efee08d1.jpg">]]></description>
-            <link>https://thegrid.ai/glitter-kitten/ellie-rae-starboard-resting-head-pivot-with-deep-fur-bitin/index.html</link>
-            <guid isPermaLink="false">d474167b-a81b-4ef5-b696-0d0d9d14148e</guid>
-            <pubDate>Sat, 23 Apr 2016 05:13:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
