@@ -4,8 +4,15 @@
         <description><![CDATA[Natural Observations of Ellie Rae]]></description>
         <link>https://thegrid.ai/glitter-kitten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 20:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 21:06:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitter-kitten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9ee1542-982f-4f88-bf2b-2fa8c0b8cbec.jpg">]]></description>
+            <link>https://thegrid.ai/glitter-kitten/b978fa79-213b-4c51-9c24-2a804a1b08cb/index.html</link>
+            <guid isPermaLink="false">b978fa79-213b-4c51-9c24-2a804a1b08cb</guid>
+            <pubDate>Sat, 23 Apr 2016 21:06:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63e519ba-97a2-4997-a8a0-38c8e2ac1d57.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/glitter-kitten/ellie-rae-elevated-front-paws-on-counter-hindquarters-in/index.html</link>
             <guid isPermaLink="false">a32ed164-b0bd-46e1-b835-737ebf82df5e</guid>
             <pubDate>Sat, 23 Apr 2016 05:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ellie Rae #1]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a7f3129-6888-4c17-b739-b54472e07dcb.jpg">]]></description>
-            <link>https://thegrid.ai/glitter-kitten/ellie-rae-1/index.html</link>
-            <guid isPermaLink="false">583cdc2f-76ad-4600-ac6f-d20ae12aae9e</guid>
-            <pubDate>Sat, 23 Apr 2016 05:27:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
