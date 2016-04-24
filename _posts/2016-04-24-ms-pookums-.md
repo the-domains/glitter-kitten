@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Ms Pookums - Mid-nap, lounging against cat pillow. Look at those toe-fluffs! Regal!'
-datePublished: '2016-04-24T02:18:59.678Z'
-dateModified: '2016-04-24T02:18:54.490Z'
+datePublished: '2016-04-24T02:24:23.089Z'
+dateModified: '2016-04-24T02:24:19.248Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-ms-pookums-.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-ms-pookums-.md
-published: true
 url: ms-pookums-/index.html
 _type: Article
 
