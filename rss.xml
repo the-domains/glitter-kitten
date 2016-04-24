@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Natural Observations of Ellie Rae]]></title>
-        <description><![CDATA[Natural Observations of Ellie Rae]]></description>
+        <title><![CDATA[Natural Observations of Ellie Rae & Ms Pookums]]></title>
+        <description><![CDATA[Natural Observations of Ellie Rae & Ms Pookums]]></description>
         <link>https://thegrid.ai/glitter-kitten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 01:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 01:58:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitter-kitten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e12b01ea-987b-4b98-936d-b4a226febb94.jpg">]]></description>
+            <link>https://thegrid.ai/glitter-kitten/ellie-rae-and-ms-pookums-rare-action-shot-with-tongue-slappi/index.html</link>
+            <guid isPermaLink="false">b8801408-e1a6-428a-838a-441aa25bfc8e</guid>
+            <pubDate>Sun, 24 Apr 2016 01:58:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4abf2c4-48e2-4cc6-9dd3-a10d4eeeea0f.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/glitter-kitten/ellie-rae-jeff-goldblum/index.html</link>
             <guid isPermaLink="false">3161d42b-18f0-4d7e-80c6-864712c61bb2</guid>
             <pubDate>Sat, 23 Apr 2016 06:19:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ellie Rae #7]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49a01280-3546-48f5-9b24-e5ef28dc90e6.jpg">]]></description>
-            <link>https://thegrid.ai/glitter-kitten/ellie-rae-elevated-fox-sit-on-top-of-dish-towels/index.html</link>
-            <guid isPermaLink="false">f89260c4-1b1a-4a8c-a857-7c84c5d19659</guid>
-            <pubDate>Sat, 23 Apr 2016 06:08:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
