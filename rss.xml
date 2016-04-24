@@ -4,8 +4,15 @@
         <description><![CDATA[Natural Observations of Ellie Rae & Ms Pookums]]></description>
         <link>https://thegrid.ai/glitter-kitten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 02:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 02:33:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitter-kitten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b251e3cd-6d8b-43a9-8962-e2cf567fde21.jpg">]]></description>
+            <link>https://thegrid.ai/glitter-kitten/ms-pookums-she-was-so-annoyed-that-i-caught-her-working-on/index.html</link>
+            <guid isPermaLink="false">14b6bb9e-ee0f-4fa5-b769-b0ba1fb99e77</guid>
+            <pubDate>Sun, 24 Apr 2016 02:32:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ms Pookums #1]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bea1bd94-7503-4397-a7a7-1ad6230401f6.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/glitter-kitten/ellie-rae-classic-side-pose-so-inquisitive/index.html</link>
             <guid isPermaLink="false">1a59e3ea-7690-46be-9239-0e0a6d0e90af</guid>
             <pubDate>Sat, 23 Apr 2016 20:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e148b5c1-45a1-4f3a-b508-f0e3b6e00eb6.jpg">]]></description>
-            <link>https://thegrid.ai/glitter-kitten/ellie-rae-casual-side-flop-mid-bat-scream/index.html</link>
-            <guid isPermaLink="false">5c4b7716-bf67-433a-a77c-1cdd754ee208</guid>
-            <pubDate>Sat, 23 Apr 2016 06:35:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
