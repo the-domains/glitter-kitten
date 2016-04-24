@@ -4,8 +4,15 @@
         <description><![CDATA[Natural Observations of Ellie Rae & Ms Pookums]]></description>
         <link>https://thegrid.ai/glitter-kitten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 01:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 02:18:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glitter-kitten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bea1bd94-7503-4397-a7a7-1ad6230401f6.jpg">]]></description>
+            <link>https://thegrid.ai/glitter-kitten/ms-pookums-/index.html</link>
+            <guid isPermaLink="false">595d36eb-aa30-437f-8bf8-841a7354ed1b</guid>
+            <pubDate>Sun, 24 Apr 2016 02:18:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51dcddf6-309c-4eeb-be6c-04b691f958c4.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/glitter-kitten/ellie-rae-classic-ellie-rae/index.html</link>
             <guid isPermaLink="false">79965dec-ea30-4bbf-a737-34ae159900b8</guid>
             <pubDate>Sat, 23 Apr 2016 06:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3cba688-1357-4bbc-a8b3-280af14bd2ab.jpg">]]></description>
-            <link>https://thegrid.ai/glitter-kitten/ellie-rae-fox-sit-on-the-pillowtop/index.html</link>
-            <guid isPermaLink="false">64b95e14-2b92-44fb-8132-b22001b142bd</guid>
-            <pubDate>Sat, 23 Apr 2016 06:22:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
